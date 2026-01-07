@@ -1,0 +1,3 @@
+[submodule "skills/planning-with-files"]
+	path = skills/planning-with-files
+	url = git@github.com:OthmanAdi/planning-with-files.git
