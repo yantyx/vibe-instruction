@@ -1,0 +1,10 @@
+node_modules
+*.orig
+
+# macOS system files
+.DS_Store
+*.tmp
+
+# Editor files
+*.swp
+*.swo
